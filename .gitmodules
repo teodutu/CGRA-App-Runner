@@ -1,0 +1,3 @@
+[submodule "Versat"]
+	path = Versat
+	url = git@github.com:teodutu/iob-soc-opencryptohw.git
