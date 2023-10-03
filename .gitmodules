@@ -1,3 +1,6 @@
 [submodule "Versat"]
 	path = Versat
 	url = git@github.com:teodutu/iob-soc-opencryptohw.git
+[submodule "Morpher"]
+	path = Morpher
+	url = git@github.com:teodutu/morpher.git
